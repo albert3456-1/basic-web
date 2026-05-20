@@ -1,0 +1,19 @@
+.title{
+
+    color:darkorange;
+
+    background-color:aqua;
+
+    margin: 10px;
+
+    padding:20px;
+}
+
+.subtitle{
+    color:black;
+    background-color:coral;
+
+    margin: 20px;
+    
+    padding:10px;
+}
